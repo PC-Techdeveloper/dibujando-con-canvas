@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.main-container{
+  background-color: #09f;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center ;
+}
+
+canvas {
+  background-color: #fff;
+}
